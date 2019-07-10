@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "497259771728",
+    "firebase_url": "https://deliverymotors-5d00c.firebaseio.com",
+    "project_id": "deliverymotors-5d00c",
+    "storage_bucket": "deliverymotors-5d00c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497259771728:android:ff167075c5e63e28",
+        "android_client_info": {
+          "package_name": "com.example.deliverymotors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497259771728-judamte60raeo6hkurp37auu0kr8hvar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deliverymotors",
+            "certificate_hash": "d3737bb9afeacf28f0c2a18fbda6e0f6131f6b94"
+          }
+        },
+        {
+          "client_id": "497259771728-tnbm50b4n8df3g19e2h42c5q8felcafh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB11y1jndFedVw6NHBtPTI04CmkufbucrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497259771728-tnbm50b4n8df3g19e2h42c5q8felcafh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497259771728-82sp45lk3qnqr7a2rpo98lh4csdkv05o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "boba.GD-Project"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
